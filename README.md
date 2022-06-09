@@ -1,4 +1,4 @@
 # An Analysis of Kickstarter Campaigns
 The objective of this analysis was to assist a new playwrite in researching crowdfunding campaigns to gain insight in launching her own campaign in the United States and possibly in Great Britain further down the road. The plan is to launch a play, "Fever", with a budget of $10,000 in the US. Along with the launch of the new play, the playwrite was interested in the crowdfunding campaigns for musicals in Great Britain. Through analysis I was able to determine certain factors that would make the campaign in the US successful as well as give insight to the future musical campaign.
 ## Kickstarter Findings
-From October of 2010 to March of 2017 there were 912 Theater campaigns launched.  Some were canceled and some were still live but overall, 525 of these campaigns were successful.
+From October of 2010 to March of 2017 there were 671 Theater-Play campaigns launched.  Some were canceled and some were still live but overall, 412 of these campaigns were successful.
