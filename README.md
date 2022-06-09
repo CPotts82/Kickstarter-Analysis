@@ -4,3 +4,4 @@ The objective of this analysis was to assist a new playwrite in researching crow
 From October of 2010 to March of 2017 there were 671 Theater-Play campaigns launched.  Some were canceled and some were still live but overall, 412 of these campaigns were successful.
 ![Subcategory](https://user-images.githubusercontent.com/106348899/172934528-d908daa3-414d-4228-8504-24c7c3cdd6de.png)
 There was a noteworthy trend found in looking at the time of year the successful theater campaingns were launched as well as the length of time the campaigns were open.  The most successful time of year to launch a campaign showed to be May, while the worst time of year to launch a campaign were the months of January, March, September, November and December. 
+![Outcomes Based on Launch Dates](https://user-images.githubusercontent.com/106348899/172935728-28161dd7-fe8a-4fd1-b6b8-f3870addae2e.png)
