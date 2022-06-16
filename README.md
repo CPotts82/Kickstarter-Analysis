@@ -19,5 +19,5 @@ Challenges that were encountered while analyzing the funding goal data was the u
 My recommendation based on the findings from the Theater Outcomes by Launch Date is to launch a theatrical crowdfunding campaign in May or June.  To be more specific I would recommend a launch date for the new campaign to be mid-May, May 15th and then run for about a month until mid-June.  My second recommendation (if a May or June launch date is not manageable) is to avoid the holiday season.  Avoid launching and running any campaign between the months of October and January.  
 
 #### Recommendations - Outcomes Based on Goals
-My recommendation for setting goals for the ca
+My recommendation for setting goals for the campaign is to set a goal of $1000 or less (as this was the most successful goal range) or to set a goal of $35,000 to $45,000 (as this was the second most successful range). 
 
